@@ -18,4 +18,4 @@ exports.addRSVP = function(req, res){
 
     //send task name back to browser so knows it worked
     res.send(rsvpEmail);
-}
+};
